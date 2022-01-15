@@ -1,0 +1,4 @@
+Qual é a importância da lógica de programação? 
+
+Venha conferir a importância da lógica de programação e dos algoritmos. ... Ela é a base de todo o conhecimento em programação, pois com a lógica você aprende a escrever um código para o computador interpretar corretamente, você aprende a se comunicar com a máquina a partir de uma linguagem – seja ela qual for.
+
